@@ -88,9 +88,9 @@ const LoginDialog = () => {
                 <Container>
                     <Title>To use WhatsDown on your computer:</Title>
                     <StyledList>
-                        <ListItem>1. Open WhatsApp on your phone</ListItem>
-                        <ListItem>2. Tap Menu Settings and select WhatsApp Web</ListItem>
-                        <ListItem>3. Point your phone to this screen to capture the code</ListItem>
+                        <ListItem>1. Login To WhatsDown</ListItem>
+                        <ListItem>2. Make your Account </ListItem>
+                        <ListItem>3. Chat with other users</ListItem>
                     </StyledList>
                 </Container>
                 <Box style={{position:'relative'}}>
